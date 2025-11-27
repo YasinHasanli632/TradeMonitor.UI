@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\bin\Debug\net8.0\TradeMonitorCore.deps.json
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\bin\Debug\net8.0\TradeMonitorCore.dll
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\bin\Debug\net8.0\TradeMonitorCore.pdb
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\TradeMonitorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\TradeMonitorCore.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\TradeMonitorCore.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\TradeMonitorCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\TradeMonitorCore.dll
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\refint\TradeMonitorCore.dll
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\TradeMonitorCore.pdb
+C:\Users\Asus\source\repos\TradeMonitor.UI\TradeMonitorCore\obj\Debug\net8.0\ref\TradeMonitorCore.dll

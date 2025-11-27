@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\services\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\services\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\services\\filewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\services\\filewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\models\\traderecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\models\\traderecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52971881-8521-4A4D-9B00-BE627B40CEE5}|TradeMonitorUI\\TradeMonitorUI.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52971881-8521-4A4D-9B00-BE627B40CEE5}|TradeMonitorUI\\TradeMonitorUI.csproj|solutionrelative:trademonitorui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\config\\appconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\config\\appconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppConfigService.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Config\\AppConfigService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppConfigService.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Config\\AppConfigService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:22:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppSettings.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Config\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppSettings.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Config\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:22:49.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorUI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TradeMonitorUI\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorUI\\AssemblyInfo.cs",
+              "RelativeToolTip": "TradeMonitorUI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:22:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:23:06.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Models\\TradeRecord.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Models\\TradeRecord.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Models\\TradeRecord.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Models\\TradeRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:23:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWatcherService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Services\\FileWatcherService.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Services\\FileWatcherService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Services\\FileWatcherService.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Services\\FileWatcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:28:37.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Services\\FileProcessingService.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Services\\FileProcessingService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Services\\FileProcessingService.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Services\\FileProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:28:43.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
