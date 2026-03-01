@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\testdata\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\testdata\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\testdata\\sample.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\testdata\\sample.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\testdata\\sample.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\testdata\\sample.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\testdata\\sample.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\testdata\\sample.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\config\\appconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\config\\appconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\models\\traderecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\models\\traderecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\models\\traderecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\models\\traderecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\services\\xmlloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\services\\xmlloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\services\\txtloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\services\\txtloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitortests\\services\\csvloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8862FFFB-1262-45F6-863F-9A1B4105DC2E}|TradeMonitorTests\\TradeMonitorTests.csproj|solutionrelative:trademonitortests\\services\\csvloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorcore\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E4E2AC-2D6B-4237-A993-83A17C2291EC}|TradeMonitorCore\\TradeMonitorCore.csproj|solutionrelative:trademonitorcore\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52971881-8521-4A4D-9B00-BE627B40CEE5}|TradeMonitorUI\\TradeMonitorUI.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorui\\trademonitorui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{52971881-8521-4A4D-9B00-BE627B40CEE5}|TradeMonitorUI\\TradeMonitorUI.csproj|solutionrelative:trademonitorui\\trademonitorui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52971881-8521-4A4D-9B00-BE627B40CEE5}|TradeMonitorUI\\TradeMonitorUI.csproj|c:\\users\\asus\\source\\repos\\trademonitor.ui\\trademonitorui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52971881-8521-4A4D-9B00-BE627B40CEE5}|TradeMonitorUI\\TradeMonitorUI.csproj|solutionrelative:trademonitorui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorUI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TradeMonitorUI\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorUI\\AssemblyInfo.cs",
+              "RelativeToolTip": "TradeMonitorUI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:56:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TradeMonitorUI",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorUI\\TradeMonitorUI.csproj",
+              "RelativeDocumentMoniker": "TradeMonitorUI\\TradeMonitorUI.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorUI\\TradeMonitorUI.csproj",
+              "RelativeToolTip": "TradeMonitorUI\\TradeMonitorUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T14:59:36.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Usings.cs",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Usings.cs",
+              "RelativeToolTip": "TradeMonitorTests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:23:55.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CsvLoaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Services\\CsvLoaderTests.cs",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\Services\\CsvLoaderTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Services\\CsvLoaderTests.cs",
+              "RelativeToolTip": "TradeMonitorTests\\Services\\CsvLoaderTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:50:01.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CsvLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Loaders\\CsvLoader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:55:55.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TxtLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\TxtLoader.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Loaders\\TxtLoader.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\TxtLoader.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Loaders\\TxtLoader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:56:00.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XmlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\XmlLoader.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Loaders\\XmlLoader.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Loaders\\XmlLoader.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Loaders\\XmlLoader.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:56:05.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TxtLoaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Services\\TxtLoaderTests.cs",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\Services\\TxtLoaderTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Services\\TxtLoaderTests.cs",
+              "RelativeToolTip": "TradeMonitorTests\\Services\\TxtLoaderTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:59:59.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XmlLoaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Services\\XmlLoaderTests.cs",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\Services\\XmlLoaderTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Services\\XmlLoaderTests.cs",
+              "RelativeToolTip": "TradeMonitorTests\\Services\\XmlLoaderTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvzMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:00:26.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradeRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Models\\TradeRecord.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Models\\TradeRecord.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Models\\TradeRecord.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Models\\TradeRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:01:26.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TradeRecordTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Models\\TradeRecordTests.cs",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\Models\\TradeRecordTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\Models\\TradeRecordTests.cs",
+              "RelativeToolTip": "TradeMonitorTests\\Models\\TradeRecordTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T19:49:08.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppConfigService.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Config\\AppConfigService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppConfigService.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Config\\AppConfigService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T19:52:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppSettings.cs",
+              "RelativeDocumentMoniker": "TradeMonitorCore\\Config\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorCore\\Config\\AppSettings.cs",
+              "RelativeToolTip": "TradeMonitorCore\\Config\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T19:53:01.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sample.csv",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.csv",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\TestData\\sample.csv",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.csv",
+              "RelativeToolTip": "TradeMonitorTests\\TestData\\sample.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-08T19:55:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sample.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.txt",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\TestData\\sample.txt",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.txt",
+              "RelativeToolTip": "TradeMonitorTests\\TestData\\sample.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-08T19:55:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sample.xml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.xml",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\TestData\\sample.xml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.xml",
+              "RelativeToolTip": "TradeMonitorTests\\TestData\\sample.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-08T19:57:44.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sample.xml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.xml",
+              "RelativeDocumentMoniker": "TradeMonitorTests\\TestData\\sample.xml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TradeMonitor.UI\\TradeMonitorTests\\TestData\\sample.xml",
+              "RelativeToolTip": "TradeMonitorTests\\TestData\\sample.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-08T19:58:51.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+﻿<Window x:Class="TradeMonitorUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ticarət Monitoru"
+        Height="600" Width="950"
+        WindowStartupLocation="CenterScreen"
+        FontSize="14">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="2*" />
+        </Grid.RowDefinitions>
+
+        <!-- Başlıq -->
+        <TextBlock Text="Ticarət Monitoru" 
+                   FontSize="20" 
+                   FontWeight="Bold"
+                   Margin="5,0,0,10"
+                   Grid.ColumnSpan="2"/>
+
+        <!-- Sol hissə - Konfiqurasiya -->
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,10,10,0">
+            <TextBlock Text="Daxil Olma Kataloqu" Margin="0,0,0,5" />
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="txtDirectory"
+                         Text="{Binding WatchDirectory, UpdateSourceTrigger=PropertyChanged}"
+                         Width="250" Margin="0,0,10,0"/>
+                <Button Content="Gözət…" Width="80" Click="BrowseButton_Click"/>
+            </StackPanel>
+
+            <TextBlock Text="Yoxlama Aralığı (saniyə):" Margin="0,10,0,5"/>
+            <TextBox x:Name="txtInterval"
+                     Text="{Binding CheckInterval, UpdateSourceTrigger=PropertyChanged}"
+                     Width="100"/>
+
+            
+        </StackPanel>
+
+        <!-- Sağ hissə - Emal edilmiş fayllar -->
+        <GroupBox Header="Emal edilmiş fayllar"
+                  Grid.Row="1"
+                  Grid.Column="1"
+                  Margin="0,10,0,0">
+            <DataGrid x:Name="dgProcessedFiles"
+                      ItemsSource="{Binding ProcessedFiles}"
+                      AutoGenerateColumns="False"
+                      IsReadOnly="True"
+                      CanUserAddRows="False"
+                      Margin="5">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Fayl" Binding="{Binding FileName}" Width="*"/>
+                    <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="Auto"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+
+        <!-- Aşağı hissə - Loq və Ticarət məlumatları -->
+        <Grid Grid.Row="2" Grid.ColumnSpan="2" Margin="0,20,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Loq -->
+            <StackPanel Grid.Column="0">
+                <TextBlock Text="Loq" Margin="0,0,0,5" />
+                <TextBox x:Name="txtLog"
+                         Text="{Binding Log}"
+                         Height="120"
+                         TextWrapping="Wrap"
+                         VerticalScrollBarVisibility="Auto"
+                         AcceptsReturn="True"
+                         IsReadOnly="True"/>
+            </StackPanel>
+
+            <!-- Ticarət məlumatları -->
+            <GroupBox Header="Ticarət Məlumatları" Grid.Column="1" Margin="10,0,0,0">
+                <DataGrid x:Name="dgTradeData"
+                          ItemsSource="{Binding TradeData}"
+                          AutoGenerateColumns="False"
+                          CanUserAddRows="False"
+                          IsReadOnly="True"
+                          Margin="5">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Tarix" Binding="{Binding Date}" Width="*"/>
+                        <DataGridTextColumn Header="Açılış" Binding="{Binding Open}" Width="*"/>
+                        <DataGridTextColumn Header="Yüksək" Binding="{Binding High}" Width="*"/>
+                        <DataGridTextColumn Header="Aşağı" Binding="{Binding Low}" Width="*"/>
+                        <DataGridTextColumn Header="Bağlama" Binding="{Binding Close}" Width="*"/>
+                        <DataGridTextColumn Header="Həcm" Binding="{Binding Volume}" Width="*" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</Window>
