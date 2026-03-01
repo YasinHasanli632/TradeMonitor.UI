@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Trades>
+	<value date="2025-11-01" open="1.1200" high="1.1250" low="1.1150" close="1.1230" volume="1000" />
+	<value date="2025-11-02" open="1.1230" high="1.1300" low="1.1200" close="1.1280" volume="1200" />
+	<value date="2025-11-03" open="1.1280" high="1.1350" low="1.1250" close="1.1300" volume="1500" />
+</Trades>
